@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+*.log
+
+# Virtual Environment
+venv/
+.venv/
+ENV/
+env/
+
+# PyCharm project files
+.idea/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# VS Code (ако користиш)
+.vscode/
+
+# Assets (ако не сакаш да ги commit-ираш)
+# !assets/foods/
+# !assets/backgrounds/
+# !assets/sounds/
+
+# Optional: тест фајлови или резерви
+*.bak
+*.tmp
+
